@@ -107,7 +107,7 @@ extreme_temp_exp <- (extreme_temp_hot == "TRUE") / 2
 sum(extreme_temp_exp)
 
 extreme_temp_exposure <- ()
-# equals 3.5 so 3.5 hours exposed to temps above 25 degrees
+# On the hottest day, extreme heat exposure was 3.5 hours
 
 # Compare your answer to the visualization you made. Does it look right to you?
 yes
